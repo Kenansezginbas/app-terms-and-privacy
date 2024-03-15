@@ -1,4 +1,4 @@
-# app-terms-and-privacy
+# Elpis App Privacy and Terms of Use
 Privacy Policy
 Privacy Policy
 
